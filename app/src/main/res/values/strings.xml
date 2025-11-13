@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="clique_aqui">Clique aqui!</string>
+    <string name="user">Usuário</string>
+    <string name="texto_2">Meu texto!</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="register">Registrar</string>
+    <string name="login_empty_field">Preencha todoos os campos de Login!</string>
+    <string name="success_login">Logado com sucesso!</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="invalid_password">Senha deve ter pelo menos 6 caracteres</string>
+    <string name="accept_terms">Aceite os termos de uso</string>
+    <string name="register_success">Registrado com sucesso</string>
+    <string name="register_error">Erro ao registrar</string>
+    <string name="delete_account">Deletar Conta</string>
+    <string name="delete_success">Conta deletada</string>
+    <string name="delete_error">Erro ao deletar conta</string>
+    <string name="terms_text">Concordo com os termos de uso</string>
+</resources>
